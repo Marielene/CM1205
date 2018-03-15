@@ -1,0 +1,15 @@
+﻿Build started 15/03/2018 10:50:25.
+     1>Project "c:\Users\c1722514\my documents\visual studio 2015\Projects\CourseworkCM1205\CourseworkCM1205\CourseworkCM1205.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling ..\..\..\..\..\Downloads\CM1205-master\CM1205-master\Coursework.asm...
+         cmd.exe /C "C:\Users\c1722514\AppData\Local\Temp\tmp18ff4cad29ff472eb0e0fc6bd800bead.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\Coursework.obj" /W3 /errorReport:prompt  /Ta"..\..\..\..\..\Downloads\CM1205-master\CM1205-master\Coursework.asm"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\c1722514\my documents\visual studio 2015\Projects\CourseworkCM1205\Debug\CourseworkCM1205.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\c1722514\my documents\visual studio 2015\Projects\CourseworkCM1205\Debug\CourseworkCM1205.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\c1722514\my documents\visual studio 2015\Projects\CourseworkCM1205\Debug\CourseworkCM1205.lib" /MACHINE:X86 Debug\Coursework.obj
+         CourseworkCM1205.vcxproj -> c:\users\c1722514\my documents\visual studio 2015\Projects\CourseworkCM1205\Debug\CourseworkCM1205.exe
+         CourseworkCM1205.vcxproj -> c:\users\c1722514\my documents\visual studio 2015\Projects\CourseworkCM1205\Debug\CourseworkCM1205.pdb (Full PDB)
+     1>Done Building Project "c:\Users\c1722514\my documents\visual studio 2015\Projects\CourseworkCM1205\CourseworkCM1205\CourseworkCM1205.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.02
